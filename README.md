@@ -7,7 +7,7 @@
  <div>
   <a href="https://github.com/Luiz-H3nrique">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiz-H3nrique&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="  https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-H3nrique&layout=compact)](https://github.com/anuraghazra/github-readme-stats)"/>
+  <img height="180em" src="  https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-H3nrique&layout=compact"/>
 </div>
   <img align="center" alt="Luiz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Luiz-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
