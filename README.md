@@ -1,6 +1,6 @@
 ### olá eu sou o Luiz Henrique
 
-- 🌱 Estudanto python & C#
+- 🌱 Estudanto python,AWS, SRE
 - 📫 Contate-me no email : luizsantos894@gmail.com
 - 😄 Pronouns: ele/dele
 
