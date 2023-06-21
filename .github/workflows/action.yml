@@ -12,4 +12,4 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:       
-          CREDLY_USER: Luiz Henrique Dos Santos Oliveira # optional, but default will use the same from github
+          CREDLY_USER: luiz-henrique-dos-santos-oliveira # optional, but default will use the same from github
