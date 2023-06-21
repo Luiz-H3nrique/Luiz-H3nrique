@@ -3,7 +3,7 @@ name: Update badges
 on:
   # Runs on pushes targeting the default branch
   push:
-    branches: ["master"]
+    branches: ["main"]
 jobs:
   update-readme:
     name: Update Readme with badges
