@@ -13,9 +13,9 @@
   ![]() ![prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![gitActions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) 
 
 # My badges
-<a target="_blank" href="http://badges.com.br/share/deff006a18f31fa17f22549ee0eefa73.php?a=3789" target="_blank"><img src="https://brasilopenbadge.com.br/badge/3789.png?nocache" alt="SRE - Trained" width="110" height="110"></a> 
-<a target="_blank"  href="http://badges.com.br/share/105700bf18e031b8a67684e81d3cbcad.php?a=3694" target="_blank"><img src="https://brasilopenbadge.com.br/badge/3694.png?nocache=263399450" alt="Practitioner - D&A Foundation." width="110" height="110"></a> 
-<a  target="_blank"  href="http://badges.com.br/share/19c86b8241dc65f90bd39f808223f989.php?a=1871" target="_blank"><img src="https://brasilopenbadge.com.br/badge/1871.png?nocache=263556854" alt="Observability Metrics - Trained" width="110" height="110"></a> 
+<a target="_blank" href="http://badges.com.br/share/deff006a18f31fa17f22549ee0eefa73.php?a=3789" target="_blank"><img src="https://brasilopenbadge.com.br/badge/3789.png?nocache" alt="SRE - Trained" width="110" height="110"></a>  
+<a  target="_blank"  href="http://badges.com.br/share/19c86b8241dc65f90bd39f808223f989.php?a=1871" target="_blank"><img src="https://brasilopenbadge.com.br/badge/1871.png?nocache=263556854" alt="Observability Metrics - Trained" width="110" height="110"></a>
+<a target="_blank"  href="http://badges.com.br/share/105700bf18e031b8a67684e81d3cbcad.php?a=3694" target="_blank"><img src="https://brasilopenbadge.com.br/badge/3694.png?nocache=263399450" alt="Practitioner - D&A Foundation." width="110" height="110"></a>
 
 <!--START_SECTION:badges-->
 [![AWS Academy Graduate - AWS Academy Cloud Foundations](https://images.credly.com/size/110x110/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)](http://www.credly.com/badges/cef210a5-5939-4be7-a52e-42ad71b477c8 "AWS Academy Graduate - AWS Academy Cloud Foundations")
