@@ -14,7 +14,8 @@
 
 # My badges
 <!--START_SECTION:badges-->
-
+[![AWS Academy Graduate - AWS Academy Cloud Foundations](https://images.credly.com/size/110x110/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)](http://www.credly.com/badges/cef210a5-5939-4be7-a52e-42ad71b477c8 "AWS Academy Graduate - AWS Academy Cloud Foundations")
+[![CCNA: Introduction to Networks](https://images.credly.com/size/110x110/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)](http://www.credly.com/badges/1e6f372e-7b53-46e7-ab21-1098e93eb195 "CCNA: Introduction to Networks")
 <!--END_SECTION:badges-->
 
   
