@@ -17,6 +17,7 @@
 <a target="_blank"  href="http://badges.com.br/share/105700bf18e031b8a67684e81d3cbcad.php?a=3694" target="_blank"><img src="https://brasilopenbadge.com.br/badge/3694.png?nocache=263399450" alt="Practitioner - D&A Foundation." width="110" height="110"></a>
 
 <!--START_SECTION:badges-->
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/0b94f83a-a502-46c4-8a66-68f44487ea80 "AWS Certified Cloud Practitioner")
 [![AWS Academy Graduate - AWS Academy Cloud Foundations](https://images.credly.com/size/110x110/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)](http://www.credly.com/badges/cef210a5-5939-4be7-a52e-42ad71b477c8 "AWS Academy Graduate - AWS Academy Cloud Foundations")
 [![CCNA: Introduction to Networks](https://images.credly.com/size/110x110/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)](http://www.credly.com/badges/1e6f372e-7b53-46e7-ab21-1098e93eb195 "CCNA: Introduction to Networks")
 <!--END_SECTION:badges-->
