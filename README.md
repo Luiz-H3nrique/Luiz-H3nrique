@@ -1,8 +1,7 @@
 ### olá eu sou o Luiz Henrique 
 
-- 🌱 Estudanto Python,AWS,SRE,Linux
+- 🌱 Estudando Python,AWS,SRE,Linux
 - 📫 Contate-me no email : luizsantos894@gmail.com
-- 😄 Pronouns: ele/dele
 
 ## 🌐 Socials:
   <div> 
