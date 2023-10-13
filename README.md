@@ -15,6 +15,7 @@
 #  🏅My badges
 <a target="_blank" href="http://badges.com.br/share/deff006a18f31fa17f22549ee0eefa73.php?a=3789" target="_blank"><img src="https://brasilopenbadge.com.br/badge/3789.png?nocache" alt="SRE - Trained" width="110" height="110"></a>  <a  target="_blank"  href="http://badges.com.br/share/19c86b8241dc65f90bd39f808223f989.php?a=1871" target="_blank"><img src="https://brasilopenbadge.com.br/badge/1871.png?nocache=263556854" alt="Observability Metrics - Trained" width="110" height="110"></a>
 <a target="_blank"  href="http://badges.com.br/share/105700bf18e031b8a67684e81d3cbcad.php?a=3694" target="_blank"><img src="https://brasilopenbadge.com.br/badge/3694.png?nocache=431535174" alt="Practitioner - D&A Foundation." width="110" height="110"></a>
+<a target="_blank"  href="https://www.brasilopenbadge.com.br/badge/3712.png?nocache=412731450" target="_blank"><img src="https://www.brasilopenbadge.com.br/badge/3712.png?nocache=412731450" alt="Associate - Data Engineering." width="110" height="110"></a>
 
 <!--START_SECTION:badges-->
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/0b94f83a-a502-46c4-8a66-68f44487ea80 "AWS Certified Cloud Practitioner")
