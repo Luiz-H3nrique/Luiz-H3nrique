@@ -1,6 +1,5 @@
 ### olá eu sou o Luiz Henrique 
 
-- 🌱 Estudando Python,AWS,SRE,Linux
 - 📫 Contate-me no email : luizsantos894@gmail.com
 
 ## 🌐 Socials:
