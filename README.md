@@ -12,14 +12,12 @@
   ![]() ![prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![gitActions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) 
 
 #  🏅My badges
-<a  target="_blank"  href="http://badges.com.br/share/19c86b8241dc65f90bd39f808223f989.php?a=1871" target="_blank"><img src="https://brasilopenbadge.com.br/badge/1871.png?nocache=263556854" alt="Observability Metrics - Trained" width="110" height="110"></a>
-
+<a target="_blank" href="http://badges.com.br/share/deff006a18f31fa17f22549ee0eefa73.php?a=3789" target="_blank"><img src="https://brasilopenbadge.com.br/badge/3789.png?nocache" alt="SRE - Trained" width="110" height="110"></a>  <a  target="_blank"  href="http://badges.com.br/share/19c86b8241dc65f90bd39f808223f989.php?a=1871" target="_blank"><img src="https://brasilopenbadge.com.br/badge/1871.png?nocache=263556854" alt="Observability Metrics - Trained" width="110" height="110"></a>
+<a target="_blank"  href="http://badges.com.br/share/105700bf18e031b8a67684e81d3cbcad.php?a=3694" target="_blank"><img src="https://brasilopenbadge.com.br/badge/3694.png?nocache=431535174" alt="Practitioner - D&A Foundation." width="120" height="120"></a>
+<a target="_blank"  href="http://badges.com.br/share/a05e9129099852b4bfd5f3cd92dde138.php?a=3712" target="_blank"><img src="https://www.brasilopenbadge.com.br/badge/3712.png?nocache=412731450" alt="Associate - Data Engineering." width="120" height="120"></a>
+<a target="_blank"  href="http://badges.com.br/share/7f7772aa1c6f0c4e66f7a9cdb04ec746.php?a=5986" target="_blank"><img src="https://brasilopenbadge.com.br/badge/5986.png?nocache=386703286" alt="Associate – Data Governance." width="120" height="120"></a>
 
 <!--START_SECTION:badges-->
-[![SRE - Trained (pt-BR)](https://images.credly.com/size/110x110/images/7c7fb461-8436-40ba-a25e-4df872095103/image.png)](http://www.credly.com/badges/a71db5ed-a93c-44e8-a7af-6a67a341686b "SRE - Trained (pt-BR)")
-[![Associate - Data Engineering](https://images.credly.com/size/110x110/images/27224c08-f61c-4d82-b929-325f96af326a/image.png)](http://www.credly.com/badges/16dbf300-0e00-46cf-9e63-2d1b244b1c3a "Associate - Data Engineering")
-[![Practitioner - D&A Foundation](https://images.credly.com/size/110x110/images/3151b077-3f06-49e8-b319-e4ef69bb19ec/image.png)](http://www.credly.com/badges/3533adf5-85e6-4ac0-b391-7ad9083d45ff "Practitioner - D&A Foundation")
-[![Associate – Data Governance](https://images.credly.com/size/110x110/images/998c20d8-43cb-44d7-a2bd-dc4145f17d56/image.png)](http://www.credly.com/badges/841bff8f-0aa8-4997-a6a1-a081ab060a80 "Associate – Data Governance")
 [![AWS Academy Graduate - AWS Academy Cloud Operations](https://images.credly.com/size/110x110/images/fa80f3f2-0383-4d44-8c14-099e2eb3be36/image.png)](http://www.credly.com/badges/d25f1c3d-cf55-46ec-b1ee-c8d4b75801f1 "AWS Academy Graduate - AWS Academy Cloud Operations")
 [![AWS Educate Introduction to Cloud 101](https://images.credly.com/size/110x110/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png)](http://www.credly.com/badges/da68a0d0-2dcc-4017-9f31-b0537d61a0ee "AWS Educate Introduction to Cloud 101")
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/0b94f83a-a502-46c4-8a66-68f44487ea80 "AWS Certified Cloud Practitioner")
@@ -32,9 +30,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=Luiz-H3nrique&theme=omni&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Luiz-H3nrique&theme=omni&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-H3nrique&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-
-
-
- 
