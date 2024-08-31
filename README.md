@@ -12,10 +12,9 @@
   ![]() ![prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![gitActions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) 
 
 #  🏅My badges
-<a target="_blank" href="http://badges.com.br/share/deff006a18f31fa17f22549ee0eefa73.php?a=3789" target="_blank"><img src="https://brasilopenbadge.com.br/badge/3789.png?nocache" alt="SRE - Trained" width="110" height="110"></a>  <a  target="_blank"  href="http://badges.com.br/share/19c86b8241dc65f90bd39f808223f989.php?a=1871" target="_blank"><img src="https://brasilopenbadge.com.br/badge/1871.png?nocache=263556854" alt="Observability Metrics - Trained" width="110" height="110"></a>
-<a target="_blank"  href="http://badges.com.br/share/105700bf18e031b8a67684e81d3cbcad.php?a=3694" target="_blank"><img src="https://brasilopenbadge.com.br/badge/3694.png?nocache=431535174" alt="Practitioner - D&A Foundation." width="120" height="120"></a>
-<a target="_blank"  href="http://badges.com.br/share/a05e9129099852b4bfd5f3cd92dde138.php?a=3712" target="_blank"><img src="https://www.brasilopenbadge.com.br/badge/3712.png?nocache=412731450" alt="Associate - Data Engineering." width="120" height="120"></a>
-<a target="_blank"  href="http://badges.com.br/share/7f7772aa1c6f0c4e66f7a9cdb04ec746.php?a=5986" target="_blank"><img src="https://brasilopenbadge.com.br/badge/5986.png?nocache=386703286" alt="Associate – Data Governance." width="120" height="120"></a>
+<a  target="_blank"  href="http://badges.com.br/share/19c86b8241dc65f90bd39f808223f989.php?a=1871" target="_blank"><img src="https://brasilopenbadge.com.br/badge/1871.png?nocache=263556854" alt="Observability Metrics - Trained" width="110" height="110"></a>
+
+
 
 <!--START_SECTION:badges-->
 [![AWS Academy Graduate - AWS Academy Cloud Operations](https://images.credly.com/size/110x110/images/fa80f3f2-0383-4d44-8c14-099e2eb3be36/image.png)](http://www.credly.com/badges/d25f1c3d-cf55-46ec-b1ee-c8d4b75801f1 "AWS Academy Graduate - AWS Academy Cloud Operations")
