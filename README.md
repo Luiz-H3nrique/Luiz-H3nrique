@@ -15,7 +15,6 @@
 <a  target="_blank"  href="http://badges.com.br/share/19c86b8241dc65f90bd39f808223f989.php?a=1871" target="_blank"><img src="https://brasilopenbadge.com.br/badge/1871.png?nocache=263556854" alt="Observability Metrics - Trained" width="110" height="110"></a>
 
 
-
 <!--START_SECTION:badges-->
 [![AWS Academy Graduate - AWS Academy Cloud Operations](https://images.credly.com/size/110x110/images/fa80f3f2-0383-4d44-8c14-099e2eb3be36/image.png)](http://www.credly.com/badges/d25f1c3d-cf55-46ec-b1ee-c8d4b75801f1 "AWS Academy Graduate - AWS Academy Cloud Operations")
 [![AWS Educate Introduction to Cloud 101](https://images.credly.com/size/110x110/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png)](http://www.credly.com/badges/da68a0d0-2dcc-4017-9f31-b0537d61a0ee "AWS Educate Introduction to Cloud 101")
